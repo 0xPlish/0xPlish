@@ -1,4 +1,4 @@
-Founder @hylo_so https://hylo.so
+Founder / CTO [Hylo](https://hylo.so)
 
 🦀 Rust
 
